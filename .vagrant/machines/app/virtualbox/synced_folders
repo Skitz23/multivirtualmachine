@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/app":{"guestpath":"/home/vagrant/app","hostpath":"C:/Users/ZainB/multivirtualmachines/multivirtualmachine/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ZainB/multivirtualmachines/multivirtualmachine","disabled":false,"__vagrantfile":true}}}
