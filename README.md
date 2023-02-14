@@ -119,9 +119,11 @@ npm install
 
 And if its done correctly go on a browser and type
 http://192.168.10.100:3000/posts
-```
+
 
 ![](./Sparta2.png)
+
+
 
 
 
