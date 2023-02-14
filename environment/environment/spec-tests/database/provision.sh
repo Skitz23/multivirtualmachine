@@ -24,5 +24,3 @@ sudo cp environment/environment/spec-tests/database/Replaceip /etc/mongod.conf
 
 sudo systemctl restart mongod
 sudo systemctl enable mongod
-
-#Doenload mongodb and change the configaration file
